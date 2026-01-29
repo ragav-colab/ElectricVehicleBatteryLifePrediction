@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual Environments
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML / Keras / TensorFlow
+*.h5
+*.keras
+models/
+checkpoints/
+
+# Data
+*.csv
+*.xlsx
+data/
+
+# OS
+.DS_Store
+Thumbs.db
+# Trained ML models
+*.pkl
